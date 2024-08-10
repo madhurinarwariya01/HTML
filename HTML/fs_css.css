@@ -1,0 +1,17 @@
+#subtitle{
+width: 100%;
+height: auto;
+background-color: aqua;
+text-align: center;
+font-size: xx-large;
+}
+.HELLO{
+font-family: 'Courier New', Courier, monospace;
+font-size: 300%;
+border: 50px;
+color: rgb(184, 44, 19);
+}
+.hey {
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
